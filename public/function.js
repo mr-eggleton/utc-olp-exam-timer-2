@@ -1,5 +1,3 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
-
 function roundUp(m){
   return m.second() || m.millisecond() ? m.add(1, 'minute').startOf('minute') : m.startOf('minute');  
 }
