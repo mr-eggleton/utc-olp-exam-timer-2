@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "moment": "^2.29.1",
+    "handlebars-helpers": "^0.10.0",
+    "template-helpers": "^1.0.1",
+    "xlsx": "^0.18.2",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/handlebars-setup-example"
+  },
+  "license": "MIT"
+}
